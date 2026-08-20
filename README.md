@@ -183,11 +183,11 @@ Key libraries are listed in `requirements.txt`. The main ones are:
 
 If you use this code in your research, please cite the associated dissertation:
 
-> Pan, R. (2026). *Leveraging Machine Learning for Spatial Crime Prediction: A Comparative Study of KDE and LSTM in Greater London*. MSc dissertation, University College London.
+> Pan, R. (2026). *Spatiotemporal Crime Hotspot Change Detection Using Machine Learning: A Dynamic Risk Assessment Framework*. MSc dissertation, University College London.
 
 For the software itself, please cite the Zenodo DOI (when available):
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22032898.svg)](https://doi.org/10.5281/zenodo.22032898)
 
 ---
 
