@@ -1,6 +1,6 @@
 # street-crime-spatial-prediction-london
 
-A spatio‑temporal machine learning framework for predicting street‑level crime hotspots in Greater London using LSTM and Kernel Density Estimation (KDE). This repository accompanies the MSc dissertation *“Leveraging Machine Learning for Spatial Crime Prediction: A Comparative Study of KDE and LSTM in Greater London”* (UCL Security & Crime Science, 2026).
+A spatio‑temporal machine learning framework for predicting street‑level crime hotspots in Greater London using LSTM and Kernel Density Estimation (KDE). This repository accompanies the MSc dissertation *“Spatiotemporal Crime Hotspot Change Detection Using Machine Learning: A Dynamic Risk Assessment Framework”* (UCL Security & Crime Science, 2026).
 
 ---
 
